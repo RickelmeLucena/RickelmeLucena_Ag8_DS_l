@@ -1,0 +1,9 @@
+PROJETO ETEC EM PYTHON - PESQUISA-TUDOWEB
+
+Um código feito inteiramente em Python.
+ Ele realiza uma pesquisa de satisfação com 50 clientes da empresa TudoWeb sobre o atendimento prestado e mostra o resultado no final.
+ Para fazê-lo funcionar basta inserir o nome, a idade e a opinião de cada entrevistado (1 - Excelente, 2 - Bom ou 3 - Ruim).
+ Ao término das entrevistas, o programa exibe automaticamente a quantidade de respostas EXCELENTE e RUIM.
+ Aproveitem!
+![Pesquisa de Satisfação](https://img.shields.io/badge/Pesquisa%20de%20Satisfa%C3%A7%C3%A3o-2E8B57?style=for-the-badge&logo=googleforms&logoColor=white)
+![Atendimento ao Cliente](https://img.shields.io/badge/Atendimento%20ao%20Cliente-FF8C00?style=for-the-badge&logo=zendesk&logoColor=white)
